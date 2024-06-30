@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-12
-=======
-1
->>>>>>> 5e4b9374e2ee529e95f362950d2950a4df18789b
+13
 
 apiVersion: apps/v1
 kind: Deployment
